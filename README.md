@@ -21,3 +21,7 @@ The fork is kind of like a branch, but for the repository not just a branch [for
 - Step 4: contribute those changes through a pull request. On a branch you can also merge it yourself if you have the permissions.
 
 On a branch you can work on the document while others are working too and then pull and merge when you are done.
+
+## push issues
+What happens when the remote main is updated and your local code wasn't updated and now you want to make a merge
+[website about pull.ff only](https://blog.sffc.xyz/post/185195398930/why-you-should-use-git-pull-ff-only-git-is-a)
