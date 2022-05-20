@@ -1,3 +1,3 @@
 # algo-study-group
 
-tryign to figure it all out
+trying to figure it all out
