@@ -1,0 +1,25 @@
+{
+  "name": "algo-study-group",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01 Basic Data Structures.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarikoIwata/algo-study-group.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarikoIwata/algo-study-group/issues"
+  },
+  "homepage": "https://github.com/MarikoIwata/algo-study-group#readme",
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
