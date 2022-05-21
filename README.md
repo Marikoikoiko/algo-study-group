@@ -5,8 +5,31 @@ The purpose of the algo study group is to become an algo ninja, but also to crea
 
 On your own we should read up on what this is all about. Please add resources to the resources folder through a pull request or be a contributor and merge yours info with what's there.
 
+---
+# Source
+The topics are sourced from the following:
+- grokkings algorithms 
+- cracking the coding interview
+- article by [Esco Obong](https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df) with good overviewo of what you need to know
+- [MIT Course](https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df) using the titles of the videos
 
-## fun github instructions
+---
+# 📝 The plan 
+Meet to go over problems we tried and share our code here before or after the call. Info on meeting will be on slack. Share your code even if you can't come it will motivate us all!
+
+For the most part we are going through the immersive and this may be an afterthought, but also a muscle 💪🏻 we've got to flex for interviews 
+
+- Week of May 23, 2022 - Arrays - https://leetcode.com/problems/contains-duplicate/
+
+
+
+---
+# 📖 Resources
+please add resources to the markdown file in the resources folder
+
+
+---
+## 💾 fun github instructions
 
 ### Fork this repository
 

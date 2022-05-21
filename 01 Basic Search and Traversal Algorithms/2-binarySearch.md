@@ -1,22 +1,21 @@
 # 2. Binary Search
-🤩 bigger deal seems like lots of interviews have this
+
+- 🤩 bigger deal seems like lots of interviews have this, but cracking the coding interview stated - think outside the box and don't use it all the time
+- add notes here
 
 ---
-Question 1: Use binary search to find a value within an array.
+Leetcode Problems (please add if there are others):
+|Category| Level     | Link |
+| ----------- | ----------- |----|
+|binary search| Easy     | https://leetcode.com/problems/binary-search/    |
 
-``` javascript
-function binarySearch2(array, value) {
-  let leftPointer = 0;
-  let rightPointer = array.length - 1;
+---
+🏃🏻‍♀️ Please post your runkit doing binary search problems 
 
-  while (leftPointer < rightPointer) {
-    const mid = Math.floor((rightPointer + leftPointer) / 2);
-    if (array[mid] === value) return mid;
-    if (array[mid] < value) leftPointer += 1;
-    if (array[mid] > value) rightPointer -= 1;
-  }
-  return -1;
-}
+- Mariko's [runkit for binary search](https://runkit.com/codingjourneyio/6284313a39734a000afbb438)
 
-console.log(binarySearch2([2, 5, 9, 10, 7], 9));// 2
-``` 
+
+
+
+
+
