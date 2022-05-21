@@ -21,7 +21,13 @@ Meet to go over problems we tried and share our code here before or after the ca
 
 For the most part we are going through the immersive and this may be an afterthought, but also a muscle 💪🏻 we've got to flex for interviews 
 
-- Week of May 23, 2022 - Arrays - https://leetcode.com/problems/contains-duplicate/
+
+|Week| Folder| Add Runkit here |Level|Link|
+| --- | --- |---|---|---|
+| 5/23 | Basic Data Structures |[Arrays](02-BasicDataStructures/arraysAndStrings.md) |Easy|https://leetcode.com/problems/binary-search/   |
+
+Will add the problem of the week here each week.
+
 
 
 
