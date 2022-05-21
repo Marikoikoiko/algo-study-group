@@ -30,3 +30,6 @@ On a branch you can work on the document while others are working too and then p
 What happens when the remote main is updated and your local code wasn't updated, but you made changes and now you want to make a merge? I'm going to `pull.ff`
 
 - [website about pull.ff only](https://blog.sffc.xyz/post/185195398930/why-you-should-use-git-pull-ff-only-git-is-a)
+
+
+There are edits here I want to add
