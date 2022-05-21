@@ -1,8 +1,9 @@
 # algo-study-group
 
-adding this text as a test
 
 ## fun github instructions
+
+### Fork this repository 
 
 if you do this, you can propose answers and an 👤 admin (anyone can be an admin, let me know) approve them. So, we can get a compilation of all our answers.
 
@@ -16,7 +17,7 @@ Here's a good tutorial on it [Making a pull request on github](https://docs.gith
 
 The fork is kind of like a branch, but for the repository not just a branch [forking tutorial by TheCodex](https://www.youtube.com/watch?v=nT8KGYVurIU)
 
-## Make a branch
+### Or Make a branch
 
 - Step 1: make a branch
 - Step 2: clone that branch to your computer
@@ -25,11 +26,11 @@ The fork is kind of like a branch, but for the repository not just a branch [for
 
 On a branch you can work on the document while others are working too and then pull and merge when you are done.
 
-## push issues
+### push issues
 
-What happens when the remote main is updated and your local code wasn't updated, but you made changes and now you want to make a merge? I'm going to `pull.ff`
+What happens when the remote main is updated and your local code wasn't updated?
+`git pull` what is on the remote repository
+`git merge` will show you all the changes that you choose to stay or go
+then add, commit and push per usual
 
-- [website about pull.ff only](https://blog.sffc.xyz/post/185195398930/why-you-should-use-git-pull-ff-only-git-is-a)
 
-
-There are edits here I want to add
