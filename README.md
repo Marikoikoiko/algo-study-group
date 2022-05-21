@@ -1,4 +1,10 @@
 # algo-study-group
+Wouldn't it be nice if we could share our code on a repository and get practice with github while we're at it? 🤩
+
+The purpose of the algo study group is to become an algo ninja, but also to create the habit of trying and doing algorithms so that we get 1% better each time and eventually get better and better to be 1000% better.
+
+On your own we should read up on what this is all about. Please add resources to the resources folder through a pull request or be a contributor and merge yours info with what's there.
+
 
 ## fun github instructions
 
@@ -27,7 +33,7 @@ On a branch you can work on the document while others are working too and then p
 
 ### push issues
 
-What happens when the remote main is updated and your local code wasn't updated?
-`git pull` what is on the remote repository
-`git merge` will show you all the changes that you choose to stay or go
-then add, commit and push per usual
+- What happens when the remote main is updated and your local code wasn't updated?
+- `git pull` what is on the remote repository
+- `git merge` will show you all the changes that you choose to stay or go. [quick merge tutorial here](https://www.youtube.com/watch?v=QmKdodJU-js)
+- then add, commit and push per usual

@@ -1,10 +1,8 @@
-# Basic Search
-
-## Linear Search
-😁 Not a big deal. iterating through the array one by one.
-
-## Binary Search
+# 2. Binary Search
 🤩 bigger deal seems like lots of interviews have this
+
+---
+Question 1: Use binary search to find a value within an array.
 
 ``` javascript
 function binarySearch2(array, value) {
@@ -21,8 +19,4 @@ function binarySearch2(array, value) {
 }
 
 console.log(binarySearch2([2, 5, 9, 10, 7], 9));// 2
-
-
-
 ``` 
-would it be helpful to have the answers like this here?
