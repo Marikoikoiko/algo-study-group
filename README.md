@@ -6,12 +6,14 @@ The purpose of the algo study group is to become an algo ninja, but also to crea
 On your own we should read up on what this is all about. Please add resources to the resources folder through a pull request or be a contributor and merge yours info with what's there.
 
 ---
-# Source
+# 🌱 Sources
 The topics are sourced from the following:
 - grokkings algorithms 
 - cracking the coding interview
 - article by [Esco Obong](https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df) with good overviewo of what you need to know
 - [MIT Course](https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df) using the titles of the videos
+
+I organized it in this [notion](https://www.notion.so/DS-A-Study-Plan-272ad8fd622f4882ae4f2b36f28f2efc) doc and eventually that table will be what is here, except we share our code
 
 ---
 # 📝 The plan 
