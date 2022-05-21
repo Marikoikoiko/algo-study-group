@@ -13,7 +13,7 @@ Leetcode Problems (please add if there are others):
 🏃🏻‍♀️ Please post your runkit doing binary search problems 
 
 - Mariko's [runkit for binary search](https://runkit.com/codingjourneyio/6284313a39734a000afbb438)
-
+- Victor's [leetcode submission for binary search](https://leetcode.com/submissions/detail/703862735/)
 
 
 
