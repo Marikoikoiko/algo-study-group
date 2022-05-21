@@ -23,5 +23,5 @@ The fork is kind of like a branch, but for the repository not just a branch [for
 On a branch you can work on the document while others are working too and then pull and merge when you are done.
 
 ## push issues
-What happens when the remote main is updated and your local code wasn't updated and now you want to make a merge
-[website about pull.ff only](https://blog.sffc.xyz/post/185195398930/why-you-should-use-git-pull-ff-only-git-is-a)
+What happens when the remote main is updated and your local code wasn't updated, but you made changes and now you want to make a merge? I'm going to `pull.ff`
+- [website about pull.ff only](https://blog.sffc.xyz/post/185195398930/why-you-should-use-git-pull-ff-only-git-is-a)
