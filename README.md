@@ -1,9 +1,8 @@
 # algo-study-group
 
-
 ## fun github instructions
 
-### Fork this repository 
+### Fork this repository
 
 if you do this, you can propose answers and an 👤 admin (anyone can be an admin, let me know) approve them. So, we can get a compilation of all our answers.
 
@@ -32,5 +31,3 @@ What happens when the remote main is updated and your local code wasn't updated?
 `git pull` what is on the remote repository
 `git merge` will show you all the changes that you choose to stay or go
 then add, commit and push per usual
-
-
