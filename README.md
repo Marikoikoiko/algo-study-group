@@ -29,8 +29,6 @@ For the most part we are going through the immersive and this may be an aftertho
 Will add the problem of the week here each week.
 
 
-
-
 ---
 # 📖 Resources
 please add resources to the markdown file in the resources folder
@@ -39,26 +37,12 @@ please add resources to the markdown file in the resources folder
 ---
 ## 💾 fun github instructions
 
-### Fork this repository
-
-if you do this, you can propose answers and an 👤 admin (anyone can be an admin, let me know) approve them. So, we can get a compilation of all our answers.
-
-- Step 1: fork this repository
-- Step 2: Clone the fork to your local drive
-- Step 3: Make changes and update your fork
-- Step 4:  when you open your fork it will tell you that there are changes that are different from the main file. Click on Contribute
-- Step 4: create a pull request to merge the changes you've made and add details of what it is
-
-Here's a good tutorial on it [Making a pull request on github](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
-
-The fork is kind of like a branch, but for the repository not just a branch [forking tutorial by TheCodex](https://www.youtube.com/watch?v=nT8KGYVurIU)
-
-### Or Make a branch
+### Make a branch 
 
 - Step 1: make a branch
 - Step 2: clone that branch to your computer
 - Step 3: make changes
-- Step 4: contribute those changes through a pull request. On a branch you can also merge it yourself if you have the permissions.
+- Step 4: contribute those changes through a pull request. On a branch you can also merge it yourself if you have the permissions. 
 
 On a branch you can work on the document while others are working too and then pull and merge when you are done.
 
@@ -68,3 +52,9 @@ On a branch you can work on the document while others are working too and then p
 - `git pull` what is on the remote repository
 - `git merge` will show you all the changes that you choose to stay or go. [quick merge tutorial here](https://www.youtube.com/watch?v=QmKdodJU-js)
 - then add, commit and push per usual
+
+## Why branch and not fork?
+
+Forks are best used: when the intent of the 'split' is to create a logically independent project, which may never reunite with its parent. Branches are best used: when they are created as temporary places to work through a feature, with the intent to merge the branch with the origin
+
+Shoutout to Victor for clarifying this.

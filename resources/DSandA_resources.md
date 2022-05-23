@@ -19,3 +19,9 @@ Regardless of what resources you use, it's good to get a sense of the topics out
 Frontend Masters has an algo course
 Udemy also has one with Colt
 
+## Github resources
+Here's a good tutorial on [Making a pull request on github](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
+
+Although we're not forking, want to save this [forking tutorial by TheCodex](https://www.youtube.com/watch?v=nT8KGYVurIU)
+
+
