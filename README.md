@@ -11,9 +11,9 @@ The topics are sourced from the following:
 - grokkings algorithms 
 - cracking the coding interview
 - article by [Esco Obong](https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df) with good overviewo of what you need to know
-- [MIT Course](https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df) using the titles of the videos
+- [MIT Course](https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df) using the titles of the videos. Shoutout to Victor for recommending this course
 
-I organized it in this [notion](https://www.notion.so/DS-A-Study-Plan-272ad8fd622f4882ae4f2b36f28f2efc) doc and eventually that table will be what is here, except we share our code
+I organized it in this [notion](https://www.notion.so/DS-A-Study-Plan-272ad8fd622f4882ae4f2b36f28f2efc) doc and eventually that table will be what is here, except we share our code. Shoutout to kaitlin and her awesome notion notebooks that inspired me.
 
 ---
 # 📝 The plan 
@@ -24,7 +24,7 @@ For the most part we are going through the immersive and this may be an aftertho
 
 |Week| Folder| Add Runkit here |Level|Link|
 | --- | --- |---|---|---|
-| 5/23 | Basic Data Structures |[Arrays](02-BasicDataStructures/arraysAndStrings.md) |Easy|https://leetcode.com/problems/binary-search/   |
+| 5/23 | Basic Data Structures |[Arrays](02-BasicDataStructures/arraysAndStrings.md) |Easy|https://leetcode.com/problems/contains-duplicate/   |
 
 Will add the problem of the week here each week.
 

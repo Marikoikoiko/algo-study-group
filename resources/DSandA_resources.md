@@ -11,6 +11,9 @@ Regardless of what resources you use, it's good to get a sense of the topics out
 - cracking the coding interview
 - article by [Esco Obong](https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df) with good overviewo of what you need to know
 
+## github repositories
+- [trekhleb](https://github.com/trekhleb/javascript-algorithms) has examples and explanations for each topic
+
 ## tutorials
 [MIT Course](https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df)
 Frontend Masters has an algo course
