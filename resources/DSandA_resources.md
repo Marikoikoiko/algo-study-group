@@ -15,9 +15,9 @@ Regardless of what resources you use, it's good to get a sense of the topics out
 - [trekhleb](https://github.com/trekhleb/javascript-algorithms) has examples and explanations for each topic
 
 ## tutorials
-[MIT Course](https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df)
-Frontend Masters has an algo course
-Udemy also has one with Colt
+- [MIT Course](https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df)
+- Frontend Masters has an algo course
+- Udemy also has one with Colt Steele
 
 ## Github resources
 Here's a good tutorial on [Making a pull request on github](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
