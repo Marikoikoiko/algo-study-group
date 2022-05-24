@@ -58,6 +58,3 @@ On a branch you can work on the document while others are working too and then p
 Forks are best used: when the intent of the 'split' is to create a logically independent project, which may never reunite with its parent. Branches are best used: when they are created as temporary places to work through a feature, with the intent to merge the branch with the origin
 
 Shoutout to Victor for clarifying this.
-
-testing testing 123
-adding this as well from github
