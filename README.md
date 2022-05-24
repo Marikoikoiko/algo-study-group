@@ -60,3 +60,5 @@ Forks are best used: when the intent of the 'split' is to create a logically ind
 Shoutout to Victor for clarifying this.
 
 adding to the end for testing github
+
+how can I compare differences
