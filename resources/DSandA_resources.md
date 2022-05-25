@@ -2,7 +2,7 @@
 Regardless of what resources you use, it's good to get a sense of the topics out there for DS&A and work on the problems. 
 
 ## study plans
-[neetcode](Neetcode.io) this has a nice breakdown of topics and leetcode problems to go with it at varying levels
+[neetcode](https://neetcode.io) this has a nice breakdown of topics and leetcode problems to go with it at varying levels
 
 [grind 75](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=1&difficulty=Easy) is another study plan tool
 
