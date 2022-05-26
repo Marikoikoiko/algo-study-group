@@ -32,7 +32,9 @@ Will add the problem of the week here each week.Topics are based on the Cracking
 # 👤 The individual plan 
 Join me and Kaitlin by copying these notion pages and doing some spaced repetition and spaced pattern recognition through an algo workout. Please link your algo workouts so that we can all inspire one another.
 
-- [Mariko's Algo Workout](https://www.notion.so/46259eca8427499ca6435b2ee68f93a2?v=3efce8372e534729bd8ca1e8e46a62a6) and [connected notes](https://www.notion.so/928fc585a2924c90926c66424b6f4bc6?v=03dea86bde5744188afe9a3275042061)
+- To Duplicate: [Notion Algo Workout](https://www.notion.so/46259eca8427499ca6435b2ee68f93a2?v=3efce8372e534729bd8ca1e8e46a62a6) and [connected notes to duplicate](https://www.notion.so/928fc585a2924c90926c66424b6f4bc6?v=03dea86bde5744188afe9a3275042061)
+- [Mariko's Algo Workout](https://www.notion.so/5cf2e0bd621b4d8487d29a70c619adfe?v=22643d1ac8374b2289b16cece8e4d7a1)
+- please post yours so we can follow along
 
 
 
