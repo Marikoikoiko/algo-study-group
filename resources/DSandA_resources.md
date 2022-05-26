@@ -9,6 +9,7 @@ Regardless of what resources you use, it's good to get a sense of the topics out
 ## books and articles
 - grokkings algorithms 
 - cracking the coding interview
+- [Data Structures and Algorithms](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf) by Cormen, Lieserson, Rivest & Stein
 - article by [Esco Obong](https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df) with good overviewo of what you need to know
 
 ## github repositories
