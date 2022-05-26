@@ -9,6 +9,8 @@ Meet to go over problems we tried and share our code here before or after the ca
 
 For the most part we are going through the immersive and this may be an afterthought, but also a muscle 💪🏻 we've got to flex for interviews 
 
+leetcode problems come from: https://neetcode.io/
+
 
 |Meeting Date| Folder| Add Runkit here |Level|Link|
 | --- | --- |---|---|---|
