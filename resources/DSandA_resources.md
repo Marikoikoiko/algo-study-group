@@ -6,6 +6,13 @@ Regardless of what resources you use, it's good to get a sense of the topics out
 
 [grind 75](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=1&difficulty=Easy) is another study plan tool
 
+## Tutorials
+- [Formation Guide](https://formation.dev/guide/)
+- [Another formation prep guide](https://coda.io/d/Formation-Prep-Guides_dLgfv6zUM1C/Web-Frontend_suAGa#_lu8ML)
+
+
+Great to take notes with these as you run into these topics on the algo workout.
+
 ## books and articles
 - grokkings algorithms 
 - cracking the coding interview
