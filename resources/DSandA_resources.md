@@ -6,6 +6,10 @@ Regardless of what resources you use, it's good to get a sense of the topics out
 
 [grind 75](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=1&difficulty=Easy) is another study plan tool
 
+[formation.dev 12 week study guide](https://coda.io/d/Formation-Prep-Guides_dLgfv6zUM1C/Algorithms_su-aZ#_luuch) general study plan, detailed for arrays, linked list, binary trees.
+
+[formation.dev guide](https://formation.dev/guide/) is a nice overview of DSA. (can use a spam email acct)
+
 ## books and articles
 - grokkings algorithms 
 - cracking the coding interview
