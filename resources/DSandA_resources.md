@@ -2,17 +2,27 @@
 Regardless of what resources you use, it's good to get a sense of the topics out there for DS&A and work on the problems. 
 
 ## study plans
-[neetcode](Neetcode.io) this has a nice breakdown of topics and leetcode problems to go with it at varying levels
+[neetcode](https://neetcode.io) this has a nice breakdown of topics and leetcode problems to go with it at varying levels
 
 [grind 75](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=1&difficulty=Easy) is another study plan tool
 
+<<<<<<< HEAD
 [formation.dev 12 week study guide](https://coda.io/d/Formation-Prep-Guides_dLgfv6zUM1C/Algorithms_su-aZ#_luuch) general study plan, detailed for arrays, linked list, binary trees.
 
 [formation.dev guide](https://formation.dev/guide/) is a nice overview of DSA. (can use a spam email acct)
+=======
+## Tutorials
+- [Formation Guide](https://formation.dev/guide/)
+- [Another formation prep guide](https://coda.io/d/Formation-Prep-Guides_dLgfv6zUM1C/Web-Frontend_suAGa#_lu8ML)
+
+
+Great to take notes with these as you run into these topics on the algo workout.
+>>>>>>> main
 
 ## books and articles
 - grokkings algorithms 
 - cracking the coding interview
+- [Data Structures and Algorithms](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf) by Cormen, Lieserson, Rivest & Stein
 - article by [Esco Obong](https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df) with good overviewo of what you need to know
 
 ## github repositories
