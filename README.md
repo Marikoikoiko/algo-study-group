@@ -18,6 +18,7 @@ leetcode problems come from: https://neetcode.io/
 | 6/1 | Basic Data Structures |[Linked Lists](02-BasicDataStructures/linked_lists.md) |Easy| https://leetcode.com/problems/reverse-linked-list/   |
 | 6/8 | Basic Data Structures |[Linked Lists](02-BasicDataStructures/linked_lists.md) |Easy| https://leetcode.com/problems/linked-list-cycle/  |
 | 6/19 | Basic Data Structures |[Stacks](02-BasicDataStructures/stacks.md) |Easy| https://leetcode.com/problems/valid-parentheses/  |
+| 6/25 | Arrays |[Sorting](02-BasicDataStructures/arraysAndStrings.md) |Medium| https://leetcode.com/problems/sort-an-array//  |
 
 Will add the problem of the week here each week.Topics are based on the Cracking the Coding Interview book chapters:
 1. Arrays and Strings
